@@ -33,4 +33,8 @@ int main() {
     nonElektronik.jumlah = 25;
     nonElektronik.kategori = "Non-Elektronik";
     nonElektronik.tanggalProduksi = "2023-12-05";
+
+     // Tampilkan data
+    elektronik.tampilkanData();
+    nonElektronik.tampilkanData();
 }
