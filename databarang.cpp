@@ -37,4 +37,6 @@ int main() {
      // Tampilkan data
     elektronik.tampilkanData();
     nonElektronik.tampilkanData();
+
+    return 0;
 }
