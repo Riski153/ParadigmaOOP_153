@@ -3,4 +3,6 @@
 
 using namespace std;
 
-class Barang {};
+class Barang {
+    public:
+};
